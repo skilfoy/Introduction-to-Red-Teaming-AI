@@ -9,7 +9,7 @@
 
 ## Project overview
 
-This repository presents a portfolio-ready technical writeup for the Hack The Box Introduction to Red Teaming AI module. The notebook combines the supplied lab workflow with professional data-engineering documentation, model-security analysis, experiment interpretation, and a reproducible triggered-data-poisoning assessment.
+This repository presents a technical writeup for the Hack The Box Introduction to Red Teaming AI module. The notebook combines the supplied lab workflow with professional data-engineering documentation, model-security analysis, experiment interpretation, and a reproducible triggered-data-poisoning assessment.
 
 The work examines the attack surface of ML-based and generative-AI systems across model behavior, training data, text generation, model components, data components, application components, and system components. Each stage records the operational purpose, the observed evidence, the security interpretation, and the relationship to the final assessment.
 
